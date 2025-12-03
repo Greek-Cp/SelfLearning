@@ -1,87 +1,108 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Linus/Linus/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Sd's%20Journey&fontSize=50&fontColor=ffffff&fontAlign=50&desc=Mastering%20New%20Skills%20One%20Step%20at%20a%20Time&descAlign=50&descSize=20)
-
-<br/>
-
-<!-- Stats Section -->
-<table style="border: none; border-collapse: collapse;">
-    <tr>
-        <td align="center" width="150px">
-            <img src="https://img.shields.io/badge/Streak-1_Days-orange?style=for-the-badge&logo=fire" alt="Streak">
-        </td>
-        <td align="center" width="150px">
-            <img src="https://img.shields.io/badge/Completed-14_Units-success?style=for-the-badge&logo=checkmark" alt="Completed">
-        </td>
-        <td align="center" width="150px">
-            <img src="https://img.shields.io/badge/Active-Dec%203%2C%202025-blue?style=for-the-badge&logo=calendar" alt="Last Active">
-        </td>
-    </tr>
-</table>
-
-<br/>
-
-<!-- Journeys Section -->
-<h3>📚 Active Journeys</h3>
-
-<table>
-    <thead>
-        <tr>
-            <th>Journey</th>
-            <th>Progress</th>
-            <th>Status</th>
-        </tr>
-    </thead>
-    <tbody>
-        
-<tr>
-    <td width="300px"><b>C++ for Beginners</b></td>
-    <td width="200px"><img src="https://img.shields.io/badge/Progress-24%25-0ea5e9?style=for-the-badge&logo=mediafire" alt="24%"></td>
-    <td width="150px">🚀 In Progress</td>
-</tr>
-    </tbody>
-</table>
-
-<br/>
-
-
-<h3>⚡ Recent Unlocks</h3>
-<table style="border: none; border-collapse: collapse;">
-    
-    <tr>
-        <td width="30px">🏆</td>
-        <td><b>Conditional Statements (if, else if, else)</b> <br/> <sub style="color: gray;">in C++ for Beginners</sub></td>
-        <td align="right"><sub>Dec 3, 10:08 PM</sub></td>
-    </tr>
-    <tr>
-        <td width="30px">🏆</td>
-        <td><b>Declaring and using variables</b> <br/> <sub style="color: gray;">in C++ for Beginners</sub></td>
-        <td align="right"><sub>Dec 3, 09:57 PM</sub></td>
-    </tr>
-    <tr>
-        <td width="30px">🏆</td>
-        <td><b>What is C++?</b> <br/> <sub style="color: gray;">in C++ for Beginners</sub></td>
-        <td align="right"><sub>Dec 3, 09:57 PM</sub></td>
-    </tr>
-    <tr>
-        <td width="30px">🏆</td>
-        <td><b>Using comparison operators</b> <br/> <sub style="color: gray;">in C++ for Beginners</sub></td>
-        <td align="right"><sub>Dec 3, 09:56 PM</sub></td>
-    </tr>
-    <tr>
-        <td width="30px">🏆</td>
-        <td><b>Performing arithmetic operations</b> <br/> <sub style="color: gray;">in C++ for Beginners</sub></td>
-        <td align="right"><sub>Dec 3, 09:54 PM</sub></td>
-    </tr>
-</table>
-<br/>
-
-
----
-
-<p align="center">
-  <sub>Generated automatically by <a href="https://github.com/yourusername/journey-app"><b>JourneyApp</b></a></sub>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Linus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Linus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Linus.Linus&"  />
+</div>
+
+###

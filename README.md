@@ -43,5 +43,25 @@
 <div align="center">
 <pre>
 C++ for Beginners    [█████░░░░░░░░░░░░░░░] 25%
+React Fundamental... [░░░░░░░░░░░░░░░░░░░░] 2%
 </pre>
+</div>
+
+<br/>
+<h3 align="center">📜 Recent Activity Log</h3>
+<div align="center">
+
+| Date | Journey | Module | Type | Activity |
+| :--- | :--- | :--- | :--- | :--- |
+| `Dec 4, 11:54` | React Fundamentals: A Beginner's Journey | Module 1: Introduction to React | 💡 Concept | What is React? |
+| `Dec 4, 00:24` | C++ for Beginners | Module 3: Control Flow (Conditional Statements and Loops) | 💡 Concept | Switch Statement |
+| `Dec 4, 00:19` | C++ for Beginners | Module 3: Control Flow (Conditional Statements and Loops) | 💡 Concept | Conditional Statements (if, else if, else) |
+| `Dec 3, 21:57` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 🔍 Examples | Declaring and using variables |
+| `Dec 3, 21:57` | C++ for Beginners | Module 1: Introduction to C++ and Setup | 💡 Concept | What is C++? |
+| `Dec 3, 21:56` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 🔍 Examples | Using comparison operators |
+| `Dec 3, 21:54` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 🔍 Examples | Performing arithmetic operations |
+| `Dec 3, 21:44` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 💡 Concept | Variable Declaration and Initialization |
+| `Dec 3, 21:44` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 💡 Concept | Variables and Data Types (int, float, char, bool) |
+| `Dec 3, 21:41` | C++ for Beginners | Module 2: Variables, Data Types, and Operators | 💡 Concept | Operators (Arithmetic, Assignment, Comparison, Logical) |
+
 </div>

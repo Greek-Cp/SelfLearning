@@ -42,7 +42,7 @@
 <h3 align="center">🌱 My Learning Journey</h3>
 <div align="center">
 <pre>
-Dart Abstraction:... [█░░░░░░░░░░░░░░░░░░░] 4%
+Dart Abstraction:... [█░░░░░░░░░░░░░░░░░░░] 6%
 </pre>
 </div>
 
@@ -52,6 +52,7 @@ Dart Abstraction:... [█░░░░░░░░░░░░░░░░░░�
 
 | Date | Journey | Module | Type | Activity |
 | :--- | :--- | :--- | :--- | :--- |
+| `Dec 5, 20:09` | Dart Abstraction: A Beginner's Guide | Module 1: Understanding Abstraction Basics | 💡 Concept | What is Abstraction? |
 | `Dec 4, 16:29` | Dart Abstraction: A Beginner's Guide | Module 2: Abstract Classes in Detail | ❓ Quiz | Quiz 2: Abstract Classes |
 | `Dec 4, 16:29` | Dart Abstraction: A Beginner's Guide | Module 1: Understanding Abstraction Basics | ❓ Quiz | Quiz 1: Abstraction Fundamentals |
 | `Dec 4, 11:56` | - | - | 📄 Activity | Unknown |
@@ -61,6 +62,5 @@ Dart Abstraction:... [█░░░░░░░░░░░░░░░░░░�
 | `Dec 3, 21:57` | - | - | 📄 Activity | Unknown |
 | `Dec 3, 21:57` | - | - | 📄 Activity | Unknown |
 | `Dec 3, 21:56` | - | - | 📄 Activity | Unknown |
-| `Dec 3, 21:54` | - | - | 📄 Activity | Unknown |
 
 </div>
